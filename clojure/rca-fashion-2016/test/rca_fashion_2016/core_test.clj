@@ -33,6 +33,11 @@
                              15) => :ballroom)
        (fact "Before Launch"
              (model-position [[:hall 10] [:ballroom 20]]
+                             [[:M1 0 1.0]]
+                             :M1
+                             -1) => :waiting)
+       (fact "Before Offset Launch"
+             (model-position [[:hall 10] [:ballroom 20]]
                              [[:M1 30 1.0]]
                              :M1
                              20) => :waiting)
@@ -73,3 +78,14 @@
                               [:M2 30 1.0]]
                              :M2
                              50) => :waiting))
+
+(facts "Occupancy"
+       (fact "Occupancy Start"
+             (occupancy [[:hall 10]]
+                        [[:M1 30 1.0]]
+                        0) => {:waiting #{:M1}})
+       (fact "One In"
+             (occupancy [[:hall 10]]
+                        [[:M1 0 1.0]
+                         [:M2 30 1.0]]
+                        5) => {:hall #{:M1} :waiting #{:M2}}))

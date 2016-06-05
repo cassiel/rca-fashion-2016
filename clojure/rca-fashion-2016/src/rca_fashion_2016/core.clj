@@ -20,15 +20,15 @@
 ;; Models, forward group; in departure order, with time interval from
 ;; last (or from epoch), and speed.
 
-(def models-forward [[:M1   0 1.0]
-                     [:M2  30 1.0]
-                     [:M3  30 1.0]
-                     [:M4  30 1.0]
-                     [:M5  30 1.5]
-                     [:M6  30 1.0]
-                     [:M7  30 1.0]
-                     [:M8  30 1.0]
-                     [:M9  30 1.0]
+(def models-forward [[:M01  0 1.0]
+                     [:M02 30 1.0]
+                     [:M03 30 1.0]
+                     [:M04 30 1.0]
+                     [:M05 30 1.5]
+                     [:M06 30 1.0]
+                     [:M07 30 1.0]
+                     [:M08 30 1.0]
+                     [:M09 30 1.0]
                      [:M10 30 1.0]
                      [:M11 30 1.0]
                      [:M12 30 1.0]
@@ -55,6 +55,8 @@
                       [:M30 30 1.0]
                       [:M30 30 1.0]
                       [:M32 30 1.0]])
+
+;; Speed map: models -> model name -> speed.
 
 (defn speeds [models]
   (into (hash-map)
@@ -91,3 +93,19 @@
     (if (> dep-time t)
       :waiting
       (base-progress rooms (* (- t dep-time) speed)))))
+
+(defn occupancy [rooms models t]
+  (reduce (fn [coll name]
+            (let [pos (model-position rooms models name t)]
+              (update coll pos #(conj (or % (sorted-set)) name)))
+            )
+          nil
+          (map first models)
+          )
+
+  )
+
+(defn full-occupancy [t]
+  (merge-with clojure.set/union
+              (occupancy rooms models-forward t)
+              (occupancy (reverse rooms) models-backward t)))
