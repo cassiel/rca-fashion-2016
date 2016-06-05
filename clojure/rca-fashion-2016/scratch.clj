@@ -21,9 +21,12 @@
 
 (clojure.set/union (sorted-set :A :Z) (sorted-set :P :Q))
 
-(c/full-occupancy 400)
+(c/full-occupancy 300)
 
 (c/model-position [[:hall 10] [:ballroom 20]]
                   [[:M1 30 1.0]]
                   :M1
                   10)
+
+
+(assoc-in [[1 2 3]] [0 2] "A")
