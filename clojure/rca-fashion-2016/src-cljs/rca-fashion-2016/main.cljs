@@ -3,7 +3,9 @@
 
 (defn at-time [me t]
   (let [results (c/full-occupancy t)]
-    (doseq [k (map first @c/rooms)]
+    (doseq [k (conj (map first @c/rooms)
+                    :waiting
+                    :finished)]
       (.outlet me 0 (name k) "---"))
     (doseq [k (sort (keys results))]
       (.post me (str k ": " (k results) "\n"))
