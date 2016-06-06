@@ -1,0 +1,80 @@
+{
+	"pattrstorage" : 	{
+		"name" : "storage",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"m01::DEPARTURE" : [ 0 ],
+					"m01::SPEED" : [ 1.0 ],
+					"m02::DEPARTURE" : [ 30 ],
+					"m02::SPEED" : [ 1.0 ],
+					"m03::DEPARTURE" : [ 30 ],
+					"m03::SPEED" : [ 1.0 ],
+					"m04::DEPARTURE" : [ 30 ],
+					"m04::SPEED" : [ 1.0 ],
+					"m05::DEPARTURE" : [ 30 ],
+					"m05::SPEED" : [ 1.0 ],
+					"m06::DEPARTURE" : [ 30 ],
+					"m06::SPEED" : [ 1.0 ],
+					"m07::DEPARTURE" : [ 30 ],
+					"m07::SPEED" : [ 1.0 ],
+					"m08::DEPARTURE" : [ 30 ],
+					"m08::SPEED" : [ 1.0 ],
+					"m09::DEPARTURE" : [ 30 ],
+					"m09::SPEED" : [ 1.0 ],
+					"m10::DEPARTURE" : [ 30 ],
+					"m10::SPEED" : [ 1.0 ],
+					"m11::DEPARTURE" : [ 30 ],
+					"m11::SPEED" : [ 1.0 ],
+					"m12::DEPARTURE" : [ 30 ],
+					"m12::SPEED" : [ 1.0 ],
+					"m13::DEPARTURE" : [ 30 ],
+					"m13::SPEED" : [ 1.0 ],
+					"m14::DEPARTURE" : [ 30 ],
+					"m14::SPEED" : [ 1.0 ],
+					"m15::DEPARTURE" : [ 30 ],
+					"m15::SPEED" : [ 1.0 ],
+					"m16::DEPARTURE" : [ 30 ],
+					"m16::SPEED" : [ 1.0 ],
+					"m17::DEPARTURE" : [ 0 ],
+					"m17::SPEED" : [ 1.0 ],
+					"m18::DEPARTURE" : [ 30 ],
+					"m18::SPEED" : [ 1.0 ],
+					"m19::DEPARTURE" : [ 30 ],
+					"m19::SPEED" : [ 1.0 ],
+					"m20::DEPARTURE" : [ 30 ],
+					"m20::SPEED" : [ 1.0 ],
+					"m21::DEPARTURE" : [ 30 ],
+					"m21::SPEED" : [ 1.0 ],
+					"m22::DEPARTURE" : [ 30 ],
+					"m22::SPEED" : [ 1.0 ],
+					"m23::DEPARTURE" : [ 30 ],
+					"m23::SPEED" : [ 1.0 ],
+					"m24::DEPARTURE" : [ 30 ],
+					"m24::SPEED" : [ 1.0 ],
+					"m25::DEPARTURE" : [ 30 ],
+					"m25::SPEED" : [ 1.0 ],
+					"m26::DEPARTURE" : [ 30 ],
+					"m26::SPEED" : [ 1.0 ],
+					"m27::DEPARTURE" : [ 30 ],
+					"m27::SPEED" : [ 1.0 ],
+					"m28::DEPARTURE" : [ 30 ],
+					"m28::SPEED" : [ 1.0 ],
+					"m29::DEPARTURE" : [ 30 ],
+					"m29::SPEED" : [ 1.0 ],
+					"m30::DEPARTURE" : [ 30 ],
+					"m30::SPEED" : [ 1.0 ],
+					"m31::DEPARTURE" : [ 30 ],
+					"m31::SPEED" : [ 1.0 ],
+					"m32::DEPARTURE" : [ 30 ],
+					"m32::SPEED" : [ 1.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

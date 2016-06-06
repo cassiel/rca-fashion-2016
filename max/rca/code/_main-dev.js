@@ -31585,18 +31585,17 @@ rca_fashion_2016.core.rooms = cljs.core.atom.call(null, new cljs.core.Persistent
 "gallery-7", "gallery-7", 1668830926), 22], null), new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "gallery-6", "gallery-6", -451807247), 35], null), new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "stairs", "stairs", -1174336142), 30], null), new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "lobby", "lobby", 1193995861), 
 13], null), new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "gallery-1", "gallery-1", -451748175), 30], null), new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "lobby-gallery-2", "lobby-gallery-2", 848136655), 16], null), new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "gallery-3", "gallery-3", 470881784), 25], 
 null), new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "gallery-3.2", "gallery-3.2", -442523100), 20], null)], null));
-rca_fashion_2016.core.models_forward = cljs.core.atom.call(null, new cljs.core.PersistentVector(null, 16, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M01", "M01", -1726583509), 0, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M02", "M02", 390051789), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, 
-[new cljs.core.Keyword(null, "M03", "M03", -1319986965), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M04", "M04", -706156859), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M05", "M05", 2142153600), 30, 1.5], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M06", "M06", 
-1783168147), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M07", "M07", 73134077), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M08", "M08", 311167126), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M09", "M09", 587734071), 30, 1], null), new cljs.core.PersistentVector(null, 
-3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M10", "M10", 233059668), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M11", "M11", -1175605609), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M12", "M12", 613994967), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, 
-[new cljs.core.Keyword(null, "M13", "M13", -368868377), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M14", "M14", -450764694), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M15", "M15", -1799997869), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M16", "M16", 
-1952461736), 30, 1], null)], null));
-rca_fashion_2016.core.models_backward = cljs.core.atom.call(null, new cljs.core.PersistentVector(null, 16, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M17", "M17", -2014003161), 0, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M18", "M18", -168795883), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, 
-[new cljs.core.Keyword(null, "M19", "M19", 1899290557), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M20", "M20", 1319002635), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M21", "M21", -1788950753), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M22", "M22", 
--818302522), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M23", "M23", -283254961), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M24", "M24", -1510343046), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M25", "M25", -1769906427), 30, 1], null), new cljs.core.PersistentVector(null, 
-3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M26", "M26", -1333439941), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M27", "M27", -1013593474), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M28", "M28", -281490702), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, 
-[new cljs.core.Keyword(null, "M29", "M29", -1804868814), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M30", "M30", 515771283), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M31", "M31", 486655075), 30, 1], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M32", "M32", 
-1891964005), 30, 1], null)], null));
+rca_fashion_2016.core.models_forward = cljs.core.atom.call(null, new cljs.core.PersistentVector(null, 16, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M01", "M01", -1726583509), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M02", "M02", 390051789), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, 
+[new cljs.core.Keyword(null, "M03", "M03", -1319986965), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M04", "M04", -706156859), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M05", "M05", 2142153600), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M06", "M06", 1783168147), 
+0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M07", "M07", 73134077), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M08", "M08", 311167126), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M09", "M09", 587734071), 0, 0], null), new cljs.core.PersistentVector(null, 
+3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M10", "M10", 233059668), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M11", "M11", -1175605609), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M12", "M12", 613994967), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, 
+"M13", "M13", -368868377), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M14", "M14", -450764694), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M15", "M15", -1799997869), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M16", "M16", 1952461736), 0, 0], null)], null));
+rca_fashion_2016.core.models_reverse = cljs.core.atom.call(null, new cljs.core.PersistentVector(null, 16, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M17", "M17", -2014003161), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M18", "M18", -168795883), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, 
+[new cljs.core.Keyword(null, "M19", "M19", 1899290557), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M20", "M20", 1319002635), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M21", "M21", -1788950753), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M22", "M22", -818302522), 
+0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M23", "M23", -283254961), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M24", "M24", -1510343046), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M25", "M25", -1769906427), 0, 0], null), new cljs.core.PersistentVector(null, 
+3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M26", "M26", -1333439941), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M27", "M27", -1013593474), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M28", "M28", -281490702), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, 
+[new cljs.core.Keyword(null, "M29", "M29", -1804868814), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M30", "M30", 515771283), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M31", "M31", 486655075), 0, 0], null), new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null, "M32", "M32", 1891964005), 
+0, 0], null)], null));
 rca_fashion_2016.core.speeds = function rca_fashion_2016$core$speeds(models) {
   return cljs.core.into.call(null, cljs.core.PersistentHashMap.EMPTY, cljs.core.map.call(null, cljs.core.juxt.call(null, cljs.core.first, cljs.core.last)), models);
 };
@@ -31604,21 +31603,21 @@ rca_fashion_2016.core.base_progress = function rca_fashion_2016$core$base_progre
   while (true) {
     var temp__4655__auto__ = cljs.core.seq.call(null, rooms);
     if (temp__4655__auto__) {
-      var vec__8992 = temp__4655__auto__;
-      var seq__8993 = cljs.core.seq.call(null, vec__8992);
-      var first__8994 = cljs.core.first.call(null, seq__8993);
-      var seq__8993__$1 = cljs.core.next.call(null, seq__8993);
-      var vec__8995 = first__8994;
-      var room = cljs.core.nth.call(null, vec__8995, 0, null);
-      var trav_t = cljs.core.nth.call(null, vec__8995, 1, null);
-      var rest = seq__8993__$1;
+      var vec__8714 = temp__4655__auto__;
+      var seq__8715 = cljs.core.seq.call(null, vec__8714);
+      var first__8716 = cljs.core.first.call(null, seq__8715);
+      var seq__8715__$1 = cljs.core.next.call(null, seq__8715);
+      var vec__8717 = first__8716;
+      var room = cljs.core.nth.call(null, vec__8717, 0, null);
+      var trav_t = cljs.core.nth.call(null, vec__8717, 1, null);
+      var rest = seq__8715__$1;
       if (t < trav_t) {
         return room;
       } else {
-        var G__8998 = rest;
-        var G__8999 = t - trav_t;
-        rooms = G__8998;
-        t = G__8999;
+        var G__8720 = rest;
+        var G__8721 = t - trav_t;
+        rooms = G__8720;
+        t = G__8721;
         continue;
       }
     } else {
@@ -31630,15 +31629,15 @@ rca_fashion_2016.core.base_progress = function rca_fashion_2016$core$base_progre
 rca_fashion_2016.core.model_departures = function rca_fashion_2016$core$model_departures(models, t) {
   var temp__4655__auto__ = cljs.core.seq.call(null, models);
   if (temp__4655__auto__) {
-    var vec__9006 = temp__4655__auto__;
-    var seq__9007 = cljs.core.seq.call(null, vec__9006);
-    var first__9008 = cljs.core.first.call(null, seq__9007);
-    var seq__9007__$1 = cljs.core.next.call(null, seq__9007);
-    var vec__9009 = first__9008;
-    var name = cljs.core.nth.call(null, vec__9009, 0, null);
-    var offset = cljs.core.nth.call(null, vec__9009, 1, null);
-    var _ = cljs.core.nth.call(null, vec__9009, 2, null);
-    var rest = seq__9007__$1;
+    var vec__8728 = temp__4655__auto__;
+    var seq__8729 = cljs.core.seq.call(null, vec__8728);
+    var first__8730 = cljs.core.first.call(null, seq__8729);
+    var seq__8729__$1 = cljs.core.next.call(null, seq__8729);
+    var vec__8731 = first__8730;
+    var name = cljs.core.nth.call(null, vec__8731, 0, null);
+    var offset = cljs.core.nth.call(null, vec__8731, 1, null);
+    var _ = cljs.core.nth.call(null, vec__8731, 2, null);
+    var rest = seq__8729__$1;
     return cljs.core.into.call(null, rca_fashion_2016$core$model_departures.call(null, rest, t + offset), new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [name, t + offset], null)], null));
   } else {
     return cljs.core.PersistentHashMap.EMPTY;
@@ -31658,9 +31657,9 @@ rca_fashion_2016.core.occupancy = function rca_fashion_2016$core$occupancy(rooms
   return cljs.core.reduce.call(null, function(coll, name) {
     var pos = rca_fashion_2016.core.model_position.call(null, rooms, models, name, t);
     return cljs.core.update.call(null, coll, pos, function(pos) {
-      return function(p1__9012_SHARP_) {
+      return function(p1__8734_SHARP_) {
         return cljs.core.conj.call(null, function() {
-          var or__6224__auto__ = p1__9012_SHARP_;
+          var or__6224__auto__ = p1__8734_SHARP_;
           if (cljs.core.truth_(or__6224__auto__)) {
             return or__6224__auto__;
           } else {
@@ -31672,56 +31671,56 @@ rca_fashion_2016.core.occupancy = function rca_fashion_2016$core$occupancy(rooms
   }, null, cljs.core.map.call(null, cljs.core.first, models));
 };
 rca_fashion_2016.core.full_occupancy = function rca_fashion_2016$core$full_occupancy(t) {
-  return cljs.core.merge_with.call(null, clojure.set.union, rca_fashion_2016.core.occupancy.call(null, cljs.core.deref.call(null, rca_fashion_2016.core.rooms), cljs.core.deref.call(null, rca_fashion_2016.core.models_forward), t), rca_fashion_2016.core.occupancy.call(null, cljs.core.reverse.call(null, cljs.core.deref.call(null, rca_fashion_2016.core.rooms)), cljs.core.deref.call(null, rca_fashion_2016.core.models_backward), t));
+  return cljs.core.merge_with.call(null, clojure.set.union, rca_fashion_2016.core.occupancy.call(null, cljs.core.deref.call(null, rca_fashion_2016.core.rooms), cljs.core.deref.call(null, rca_fashion_2016.core.models_forward), t), rca_fashion_2016.core.occupancy.call(null, cljs.core.reverse.call(null, cljs.core.deref.call(null, rca_fashion_2016.core.rooms)), cljs.core.deref.call(null, rca_fashion_2016.core.models_reverse), t));
 };
 goog.provide("rca_fashion_2016.main");
 goog.require("cljs.core");
 goog.require("rca_fashion_2016.core");
 rca_fashion_2016.main.at_time = function rca_fashion_2016$main$at_time(me, t) {
   var results = rca_fashion_2016.core.full_occupancy.call(null, t);
-  var seq__9023_9031 = cljs.core.seq.call(null, cljs.core.conj.call(null, cljs.core.map.call(null, cljs.core.first, cljs.core.deref.call(null, rca_fashion_2016.core.rooms)), new cljs.core.Keyword(null, "waiting", "waiting", 895906735), new cljs.core.Keyword(null, "finished", "finished", -1018867731)));
-  var chunk__9024_9032 = null;
-  var count__9025_9033 = 0;
-  var i__9026_9034 = 0;
+  var seq__8745_8753 = cljs.core.seq.call(null, cljs.core.conj.call(null, cljs.core.map.call(null, cljs.core.first, cljs.core.deref.call(null, rca_fashion_2016.core.rooms)), new cljs.core.Keyword(null, "waiting", "waiting", 895906735), new cljs.core.Keyword(null, "finished", "finished", -1018867731)));
+  var chunk__8746_8754 = null;
+  var count__8747_8755 = 0;
+  var i__8748_8756 = 0;
   while (true) {
-    if (i__9026_9034 < count__9025_9033) {
-      var k_9035 = cljs.core._nth.call(null, chunk__9024_9032, i__9026_9034);
-      me.outlet(0, cljs.core.name.call(null, k_9035), "---");
-      var G__9036 = seq__9023_9031;
-      var G__9037 = chunk__9024_9032;
-      var G__9038 = count__9025_9033;
-      var G__9039 = i__9026_9034 + 1;
-      seq__9023_9031 = G__9036;
-      chunk__9024_9032 = G__9037;
-      count__9025_9033 = G__9038;
-      i__9026_9034 = G__9039;
+    if (i__8748_8756 < count__8747_8755) {
+      var k_8757 = cljs.core._nth.call(null, chunk__8746_8754, i__8748_8756);
+      me.outlet(0, cljs.core.name.call(null, k_8757), "---");
+      var G__8758 = seq__8745_8753;
+      var G__8759 = chunk__8746_8754;
+      var G__8760 = count__8747_8755;
+      var G__8761 = i__8748_8756 + 1;
+      seq__8745_8753 = G__8758;
+      chunk__8746_8754 = G__8759;
+      count__8747_8755 = G__8760;
+      i__8748_8756 = G__8761;
       continue;
     } else {
-      var temp__4657__auto___9040 = cljs.core.seq.call(null, seq__9023_9031);
-      if (temp__4657__auto___9040) {
-        var seq__9023_9041__$1 = temp__4657__auto___9040;
-        if (cljs.core.chunked_seq_QMARK_.call(null, seq__9023_9041__$1)) {
-          var c__7035__auto___9042 = cljs.core.chunk_first.call(null, seq__9023_9041__$1);
-          var G__9043 = cljs.core.chunk_rest.call(null, seq__9023_9041__$1);
-          var G__9044 = c__7035__auto___9042;
-          var G__9045 = cljs.core.count.call(null, c__7035__auto___9042);
-          var G__9046 = 0;
-          seq__9023_9031 = G__9043;
-          chunk__9024_9032 = G__9044;
-          count__9025_9033 = G__9045;
-          i__9026_9034 = G__9046;
+      var temp__4657__auto___8762 = cljs.core.seq.call(null, seq__8745_8753);
+      if (temp__4657__auto___8762) {
+        var seq__8745_8763__$1 = temp__4657__auto___8762;
+        if (cljs.core.chunked_seq_QMARK_.call(null, seq__8745_8763__$1)) {
+          var c__7035__auto___8764 = cljs.core.chunk_first.call(null, seq__8745_8763__$1);
+          var G__8765 = cljs.core.chunk_rest.call(null, seq__8745_8763__$1);
+          var G__8766 = c__7035__auto___8764;
+          var G__8767 = cljs.core.count.call(null, c__7035__auto___8764);
+          var G__8768 = 0;
+          seq__8745_8753 = G__8765;
+          chunk__8746_8754 = G__8766;
+          count__8747_8755 = G__8767;
+          i__8748_8756 = G__8768;
           continue;
         } else {
-          var k_9047 = cljs.core.first.call(null, seq__9023_9041__$1);
-          me.outlet(0, cljs.core.name.call(null, k_9047), "---");
-          var G__9048 = cljs.core.next.call(null, seq__9023_9041__$1);
-          var G__9049 = null;
-          var G__9050 = 0;
-          var G__9051 = 0;
-          seq__9023_9031 = G__9048;
-          chunk__9024_9032 = G__9049;
-          count__9025_9033 = G__9050;
-          i__9026_9034 = G__9051;
+          var k_8769 = cljs.core.first.call(null, seq__8745_8763__$1);
+          me.outlet(0, cljs.core.name.call(null, k_8769), "---");
+          var G__8770 = cljs.core.next.call(null, seq__8745_8763__$1);
+          var G__8771 = null;
+          var G__8772 = 0;
+          var G__8773 = 0;
+          seq__8745_8753 = G__8770;
+          chunk__8746_8754 = G__8771;
+          count__8747_8755 = G__8772;
+          i__8748_8756 = G__8773;
           continue;
         }
       } else {
@@ -31729,51 +31728,51 @@ rca_fashion_2016.main.at_time = function rca_fashion_2016$main$at_time(me, t) {
     }
     break;
   }
-  var seq__9027 = cljs.core.seq.call(null, cljs.core.sort.call(null, cljs.core.keys.call(null, results)));
-  var chunk__9028 = null;
-  var count__9029 = 0;
-  var i__9030 = 0;
+  var seq__8749 = cljs.core.seq.call(null, cljs.core.sort.call(null, cljs.core.keys.call(null, results)));
+  var chunk__8750 = null;
+  var count__8751 = 0;
+  var i__8752 = 0;
   while (true) {
-    if (i__9030 < count__9029) {
-      var k = cljs.core._nth.call(null, chunk__9028, i__9030);
+    if (i__8752 < count__8751) {
+      var k = cljs.core._nth.call(null, chunk__8750, i__8752);
       me.post([cljs.core.str(k), cljs.core.str(": "), cljs.core.str(k.call(null, results)), cljs.core.str("\n")].join(""));
       me.outlet(0, cljs.core.name.call(null, k), [cljs.core.str(k.call(null, results))].join(""));
-      var G__9052 = seq__9027;
-      var G__9053 = chunk__9028;
-      var G__9054 = count__9029;
-      var G__9055 = i__9030 + 1;
-      seq__9027 = G__9052;
-      chunk__9028 = G__9053;
-      count__9029 = G__9054;
-      i__9030 = G__9055;
+      var G__8774 = seq__8749;
+      var G__8775 = chunk__8750;
+      var G__8776 = count__8751;
+      var G__8777 = i__8752 + 1;
+      seq__8749 = G__8774;
+      chunk__8750 = G__8775;
+      count__8751 = G__8776;
+      i__8752 = G__8777;
       continue;
     } else {
-      var temp__4657__auto__ = cljs.core.seq.call(null, seq__9027);
+      var temp__4657__auto__ = cljs.core.seq.call(null, seq__8749);
       if (temp__4657__auto__) {
-        var seq__9027__$1 = temp__4657__auto__;
-        if (cljs.core.chunked_seq_QMARK_.call(null, seq__9027__$1)) {
-          var c__7035__auto__ = cljs.core.chunk_first.call(null, seq__9027__$1);
-          var G__9056 = cljs.core.chunk_rest.call(null, seq__9027__$1);
-          var G__9057 = c__7035__auto__;
-          var G__9058 = cljs.core.count.call(null, c__7035__auto__);
-          var G__9059 = 0;
-          seq__9027 = G__9056;
-          chunk__9028 = G__9057;
-          count__9029 = G__9058;
-          i__9030 = G__9059;
+        var seq__8749__$1 = temp__4657__auto__;
+        if (cljs.core.chunked_seq_QMARK_.call(null, seq__8749__$1)) {
+          var c__7035__auto__ = cljs.core.chunk_first.call(null, seq__8749__$1);
+          var G__8778 = cljs.core.chunk_rest.call(null, seq__8749__$1);
+          var G__8779 = c__7035__auto__;
+          var G__8780 = cljs.core.count.call(null, c__7035__auto__);
+          var G__8781 = 0;
+          seq__8749 = G__8778;
+          chunk__8750 = G__8779;
+          count__8751 = G__8780;
+          i__8752 = G__8781;
           continue;
         } else {
-          var k = cljs.core.first.call(null, seq__9027__$1);
+          var k = cljs.core.first.call(null, seq__8749__$1);
           me.post([cljs.core.str(k), cljs.core.str(": "), cljs.core.str(k.call(null, results)), cljs.core.str("\n")].join(""));
           me.outlet(0, cljs.core.name.call(null, k), [cljs.core.str(k.call(null, results))].join(""));
-          var G__9060 = cljs.core.next.call(null, seq__9027__$1);
-          var G__9061 = null;
-          var G__9062 = 0;
-          var G__9063 = 0;
-          seq__9027 = G__9060;
-          chunk__9028 = G__9061;
-          count__9029 = G__9062;
-          i__9030 = G__9063;
+          var G__8782 = cljs.core.next.call(null, seq__8749__$1);
+          var G__8783 = null;
+          var G__8784 = 0;
+          var G__8785 = 0;
+          seq__8749 = G__8782;
+          chunk__8750 = G__8783;
+          count__8751 = G__8784;
+          i__8752 = G__8785;
           continue;
         }
       } else {
@@ -31783,27 +31782,27 @@ rca_fashion_2016.main.at_time = function rca_fashion_2016$main$at_time(me, t) {
     break;
   }
 };
-rca_fashion_2016.main.set_f_offset = function rca_fashion_2016$main$set_f_offset(me, idx, t) {
+rca_fashion_2016.main.set_for_offset = function rca_fashion_2016$main$set_for_offset(me, idx, t) {
   cljs.core.swap_BANG_.call(null, rca_fashion_2016.core.models_forward, cljs.core.assoc_in, new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [idx, 1], null), t);
   return me.post([cljs.core.str(cljs.core.deref.call(null, rca_fashion_2016.core.models_forward)), cljs.core.str("\n")].join(""));
 };
-rca_fashion_2016.main.set_b_offset = function rca_fashion_2016$main$set_b_offset(me, idx, t) {
-  cljs.core.swap_BANG_.call(null, rca_fashion_2016.core.models_backward, cljs.core.assoc_in, new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [idx, 1], null), t);
-  return me.post([cljs.core.str(cljs.core.deref.call(null, rca_fashion_2016.core.models_backward)), cljs.core.str("\n")].join(""));
+rca_fashion_2016.main.set_rev_offset = function rca_fashion_2016$main$set_rev_offset(me, idx, t) {
+  cljs.core.swap_BANG_.call(null, rca_fashion_2016.core.models_reverse, cljs.core.assoc_in, new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [idx, 1], null), t);
+  return me.post([cljs.core.str(cljs.core.deref.call(null, rca_fashion_2016.core.models_reverse)), cljs.core.str("\n")].join(""));
 };
-rca_fashion_2016.main.set_f_speed = function rca_fashion_2016$main$set_f_speed(me, idx, t) {
+rca_fashion_2016.main.set_for_speed = function rca_fashion_2016$main$set_for_speed(me, idx, t) {
   cljs.core.swap_BANG_.call(null, rca_fashion_2016.core.models_forward, cljs.core.assoc_in, new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [idx, 2], null), t);
   return me.post([cljs.core.str(cljs.core.deref.call(null, rca_fashion_2016.core.models_forward)), cljs.core.str("\n")].join(""));
 };
-rca_fashion_2016.main.set_b_speed = function rca_fashion_2016$main$set_b_speed(me, idx, t) {
-  cljs.core.swap_BANG_.call(null, rca_fashion_2016.core.models_backward, cljs.core.assoc_in, new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [idx, 2], null), t);
-  return me.post([cljs.core.str(cljs.core.deref.call(null, rca_fashion_2016.core.models_backward)), cljs.core.str("\n")].join(""));
+rca_fashion_2016.main.set_rev_speed = function rca_fashion_2016$main$set_rev_speed(me, idx, t) {
+  cljs.core.swap_BANG_.call(null, rca_fashion_2016.core.models_reverse, cljs.core.assoc_in, new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [idx, 2], null), t);
+  return me.post([cljs.core.str(cljs.core.deref.call(null, rca_fashion_2016.core.models_reverse)), cljs.core.str("\n")].join(""));
 };
-var me_9064 = this;
-me_9064.at_time = cljs.core.partial.call(null, rca_fashion_2016.main.at_time, me_9064);
-me_9064.set_f_offset = cljs.core.partial.call(null, rca_fashion_2016.main.set_f_offset, me_9064);
-me_9064.set_b_offset = cljs.core.partial.call(null, rca_fashion_2016.main.set_b_offset, me_9064);
-me_9064.set_f_speed = cljs.core.partial.call(null, rca_fashion_2016.main.set_f_speed, me_9064);
-me_9064.set_b_speed = cljs.core.partial.call(null, rca_fashion_2016.main.set_b_speed, me_9064);
-me_9064.autowatch = 1;
-me_9064.post([cljs.core.str("RCA "), cljs.core.str(Date()), cljs.core.str("\n")].join(""));
+var me_8786 = this;
+me_8786.at_time = cljs.core.partial.call(null, rca_fashion_2016.main.at_time, me_8786);
+me_8786.set_for_offset = cljs.core.partial.call(null, rca_fashion_2016.main.set_for_offset, me_8786);
+me_8786.set_rev_offset = cljs.core.partial.call(null, rca_fashion_2016.main.set_rev_offset, me_8786);
+me_8786.set_for_speed = cljs.core.partial.call(null, rca_fashion_2016.main.set_for_speed, me_8786);
+me_8786.set_rev_speed = cljs.core.partial.call(null, rca_fashion_2016.main.set_rev_speed, me_8786);
+me_8786.autowatch = 1;
+me_8786.post([cljs.core.str("RCA "), cljs.core.str(Date()), cljs.core.str("\n")].join(""));

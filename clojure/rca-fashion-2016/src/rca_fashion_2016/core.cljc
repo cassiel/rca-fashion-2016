@@ -21,41 +21,41 @@
 ;; Models, forward group; in departure order, with time interval from
 ;; last (or from epoch), and speed.
 
-(def models-forward (atom [[:M01  0 1.0]
-                           [:M02 30 1.0]
-                           [:M03 30 1.0]
-                           [:M04 30 1.0]
-                           [:M05 30 1.5]
-                           [:M06 30 1.0]
-                           [:M07 30 1.0]
-                           [:M08 30 1.0]
-                           [:M09 30 1.0]
-                           [:M10 30 1.0]
-                           [:M11 30 1.0]
-                           [:M12 30 1.0]
-                           [:M13 30 1.0]
-                           [:M14 30 1.0]
-                           [:M15 30 1.0]
-                           [:M16 30 1.0]]))
+(def models-forward (atom [[:M01 0 0.0]
+                           [:M02 0 0.0]
+                           [:M03 0 0.0]
+                           [:M04 0 0.0]
+                           [:M05 0 0.0]
+                           [:M06 0 0.0]
+                           [:M07 0 0.0]
+                           [:M08 0 0.0]
+                           [:M09 0 0.0]
+                           [:M10 0 0.0]
+                           [:M11 0 0.0]
+                           [:M12 0 0.0]
+                           [:M13 0 0.0]
+                           [:M14 0 0.0]
+                           [:M15 0 0.0]
+                           [:M16 0 0.0]]))
 
-;; Models, backward order.
+;; Models, reverse order.
 
-(def models-backward (atom [[:M17  0 1.0]
-                            [:M18 30 1.0]
-                            [:M19 30 1.0]
-                            [:M20 30 1.0]
-                            [:M21 30 1.0]
-                            [:M22 30 1.0]
-                            [:M23 30 1.0]
-                            [:M24 30 1.0]
-                            [:M25 30 1.0]
-                            [:M26 30 1.0]
-                            [:M27 30 1.0]
-                            [:M28 30 1.0]
-                            [:M29 30 1.0]
-                            [:M30 30 1.0]
-                            [:M31 30 1.0]
-                            [:M32 30 1.0]]))
+(def models-reverse (atom [[:M17 0 0.0]
+                           [:M18 0 0.0]
+                           [:M19 0 0.0]
+                           [:M20 0 0.0]
+                           [:M21 0 0.0]
+                           [:M22 0 0.0]
+                           [:M23 0 0.0]
+                           [:M24 0 0.0]
+                           [:M25 0 0.0]
+                           [:M26 0 0.0]
+                           [:M27 0 0.0]
+                           [:M28 0 0.0]
+                           [:M29 0 0.0]
+                           [:M30 0 0.0]
+                           [:M31 0 0.0]
+                           [:M32 0 0.0]]))
 
 ;; Speed map: models -> model name -> speed.
 
@@ -106,4 +106,4 @@
 (defn full-occupancy [t]
   (merge-with clojure.set/union
               (occupancy @rooms @models-forward t)
-              (occupancy (reverse @rooms) @models-backward t)))
+              (occupancy (reverse @rooms) @models-reverse t)))
